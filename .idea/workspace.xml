@@ -24,16 +24,25 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="38" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+            <state line="25" column="3" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spec_helper.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.mv" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.mv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="42" selection-start="201" selection-end="201" vertical-scroll-proportion="0.07597765">
               <folding />
             </state>
           </provider>
@@ -50,6 +59,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.mv" />
       </list>
     </option>
   </component>
@@ -354,7 +364,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+        <state line="25" column="3" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -362,6 +372,13 @@
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.mv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="42" selection-start="201" selection-end="201" vertical-scroll-proportion="0.07597765">
           <folding />
         </state>
       </provider>
